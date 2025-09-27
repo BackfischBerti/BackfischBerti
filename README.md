@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey, ich bin BackfischBerti
 
-<!--
-**BackfischBerti/BackfischBerti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 PC-Hardware- und Custom-Wasserkühlungs-Enthusiast  
+🧪 Aktuell baue ich einen Hardtube-Wasserkühlungs-PC mit 9800X3D & RTX 5080  
+📍 Deutschland
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Aktuelle Projekte:**
+
+- Custom-Loop Build Log (Hardtube / HA-Tubes / GPU + CPU)
+- Undervolting & Overclocking Dokumentation
+- BIOS- und RAM-Tuning Setup
+
+---
+
+Mehr Inhalte folgen bald.  
